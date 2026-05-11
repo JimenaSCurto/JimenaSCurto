@@ -82,7 +82,7 @@ Synthesizing Politics, Law, and Economics with quantitative evaluation for evide
 
 [![Systems & Simulation](https://img.shields.io/badge/Systems_%26_Simulation-Systems_%26_Simulation-1D4ED8?style=for-the-badge&labelColor=1D4ED8&color=1D4ED8)](https://github.com/JimenaSCurto/Cartel-Simulation-in-Parallel)
 
-**[→ Systems & Simulation](https://github.com/JimenaSCurto/Cartel-Simulation-in-Parallel)**
+**[→ Cartel Simulation in Parallel](https://github.com/JimenaSCurto/Cartel-Simulation-in-Parallel)**
 
 `Parallel Computing` `Concurrency` `Multithreading`
 
@@ -93,7 +93,7 @@ High-performance modeling of cartel market behaviors using shared-state logic an
 
 [![Quant Political Analysis](https://img.shields.io/badge/Quant_Political_Analysis-Quant_Political_Analysis-7C3AED?style=for-the-badge&labelColor=7C3AED&color=7C3AED)](https://github.com/JimenaSCurto/Perfiles-Humanos)
 
-**[→ Quant Political Analysis](https://github.com/JimenaSCurto/Perfiles-Humanos)**
+**[→ Schwartz's Human Profiles and Values](https://github.com/JimenaSCurto/Perfiles-Humanos)**
 
 `Unsupervised Learning` `Clustering` `Sociology`
 
@@ -107,7 +107,7 @@ Uncovering latent ideological structures and human behavioral profiles via unsup
 
 [![NLP & Semantic Analysis](https://img.shields.io/badge/NLP_%26_Semantic_Analysis-NLP_%26_Semantic_Analysis-0F766E?style=for-the-badge&labelColor=0F766E&color=0F766E)](https://github.com/JimenaSCurto/Lady-Macbeth)
 
-**[→ NLP & Semantic Analysis](https://github.com/JimenaSCurto/Lady-Macbeth)**
+**[→ Lady Macbeth: Tracking Power Through Language](https://github.com/JimenaSCurto/Lady-Macbeth)**
 
 `Semantic Analysis` `PyTorch` `Text Mining`
 
