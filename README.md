@@ -2,32 +2,30 @@
 
 <table>
 <tr>
-<td valign="top" width="62%">
+<td valign="top" width="64%">
 
 ### Systems, data, and language as structured models
 
 PPLE + Data & Business Analytics
 
-I build work across concurrency, clustering, and NLP — usually where technical rigor meets social interpretation.
+I work across concurrency, clustering, and NLP, with a focus on making complex systems legible through computation.
 
 <p>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories"><img src="https://img.shields.io/badge/Repositories-111827?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/"><img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 </td>
-<td valign="top" width="38%">
+<td valign="top" width="36%">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github&title_color=0f172a&text_color=1f2937&icon_color=0f172a&bg_color=ffffff" alt="GitHub stats" />
-</a>
+<p align="center"><strong>Selected stack</strong></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/R-111827?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+</p>
 
 </td>
 </tr>
@@ -41,89 +39,66 @@ I build work across concurrency, clustering, and NLP — usually where technical
 <tr>
 <td width="33%" valign="top">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/Cartel-Simulation-in-Parallel">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/Cartel-Simulation-in-Parallel/main/assets/cover.png" alt="Cartel Simulation in Parallel" width="100%" />
-</a>
+#### Cartel Simulation in Parallel
 
-**Cartel Simulation in Parallel**
-
-A concurrent simulation of a drug cartel system built for an Operating Systems and Parallel Computing course.
-
-`Threads` `Locks` `Synchronization` `SQLite`
-
-[Open project →](https://github.com/YOUR_GITHUB_USERNAME/Cartel-Simulation-in-Parallel)
-
-</td>
-<td width="33%" valign="top">
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME/Perfiles-Humanos">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/Perfiles-Humanos/main/assets/cover.png" alt="Perfiles Humanos" width="100%" />
-</a>
-
-**Perfiles Humanos**
-
-Clustering human profiles to surface latent ideological structure and segment patterns in beliefs.
-
-`Clustering` `PCA` `Unsupervised Learning` `Visualization`
-
-[Open project →](https://github.com/YOUR_GITHUB_USERNAME/Perfiles-Humanos)
-
-</td>
-<td width="33%" valign="top">
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME/Lady-Macbeth">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/Lady-Macbeth/main/assets/cover.png" alt="Lady Macbeth NLP" width="100%" />
-</a>
-
-**Lady Macbeth**
-
-A deep NLP analysis of Lady Macbeth’s speech, focused on language, tone, and semantic structure.
-
-`NLP` `Text Analysis` `Discourse` `Semantics`
-
-[Open project →](https://github.com/YOUR_GITHUB_USERNAME/Lady-Macbeth)
-
-</td>
-</tr>
-</table>
-
----
-
-## Live Dashboard
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=FFFFFF&ring=0f172a&fire=0f172a&currStreakLabel=0f172a" alt="Contribution streak" />
-</a>
-
-</td>
-<td valign="top" width="50%">
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&hide_border=true&theme=minimal" alt="Contribution graph" />
-</a>
-
-</td>
-</tr>
-</table>
-
----
-
-## Toolset
+A concurrent simulation of a drug cartel system built for Operating Systems and Parallel Computing.
 
 <p>
-  <img src="https://img.shields.io/badge/Python-1f2937?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/R-1f2937?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-  <img src="https://img.shields.io/badge/SQL-1f2937?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/scikit--learn-1f2937?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/NLP-1f2937?style=for-the-badge&logo=opencv&logoColor=white" alt="NLP" />
-  <img src="https://img.shields.io/badge/Parallel%20Computing-1f2937?style=for-the-badge&logo=apachespark&logoColor=white" alt="Parallel Computing" />
-  <img src="https://img.shields.io/badge/BigQuery-1f2937?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="BigQuery" />
-  <img src="https://img.shields.io/badge/SQLite-1f2937?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Concurrency-0f172a?style=flat-square&logo=git&logoColor=white" alt="Concurrency" />
+  <img src="https://img.shields.io/badge/Threads-0f172a?style=flat-square&logo=githubactions&logoColor=white" alt="Threads" />
+  <img src="https://img.shields.io/badge/Locks-0f172a?style=flat-square&logo=probot&logoColor=white" alt="Locks" />
+  <img src="https://img.shields.io/badge/SQLite-0f172a?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
+
+* production, distribution, morale, and sabotage modeled as interacting processes
+* synchronization designed around shared-state control
+* built to reflect a decentralized, high-pressure system
+
+[Open repository →](https://github.com/YOUR_GITHUB_USERNAME/Cartel-Simulation-in-Parallel)
+
+</td>
+<td width="33%" valign="top">
+
+#### Perfiles Humanos
+
+Clustering-based analysis to uncover ideological structure in human profiles.
+
+<p>
+  <img src="https://img.shields.io/badge/Clustering-0f172a?style=flat-square&logo=scikitlearn&logoColor=white" alt="Clustering" />
+  <img src="https://img.shields.io/badge/PCA-0f172a?style=flat-square&logo=numpy&logoColor=white" alt="PCA" />
+  <img src="https://img.shields.io/badge/Unsupervised-0f172a?style=flat-square&logo=databricks&logoColor=white" alt="Unsupervised" />
+  <img src="https://img.shields.io/badge/Visualization-0f172a?style=flat-square&logo=tableau&logoColor=white" alt="Visualization" />
+</p>
+
+* segments profiles to reveal latent belief patterns
+* uses dimensionality reduction for interpretability
+* links technical structure to political and social analysis
+
+[Open repository →](https://github.com/YOUR_GITHUB_USERNAME/Perfiles-Humanos)
+
+</td>
+<td width="33%" valign="top">
+
+#### Lady Macbeth
+
+A deep NLP dive into Lady Macbeth’s speech.
+
+<p>
+  <img src="https://img.shields.io/badge/NLP-0f172a?style=flat-square&logo=opencv&logoColor=white" alt="NLP" />
+  <img src="https://img.shields.io/badge/Text%20Analysis-0f172a?style=flat-square&logo=readthedocs&logoColor=white" alt="Text Analysis" />
+  <img src="https://img.shields.io/badge/Semantics-0f172a?style=flat-square&logo=semanticweb&logoColor=white" alt="Semantics" />
+  <img src="https://img.shields.io/badge/Discourse-0f172a?style=flat-square&logo=academia&logoColor=white" alt="Discourse" />
+</p>
+
+* examines tone, semantics, and rhetorical movement
+* uses language as a signal of psychological and narrative intensity
+* combines computational reading with interpretive analysis
+
+[Open repository →](https://github.com/YOUR_GITHUB_USERNAME/Lady-Macbeth)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -131,9 +106,16 @@ A deep NLP analysis of Lady Macbeth’s speech, focused on language, tone, and s
 
 <table>
 <tr>
-<td width="33%"><strong>Concurrency</strong><br/>Modeling shared-state systems, synchronization, and simulation behavior.</td>
-<td width="33%"><strong>Structure</strong><br/>Finding latent patterns in data through clustering and dimensionality reduction.</td>
-<td width="33%"><strong>Language</strong><br/>Using NLP to extract meaning, tone, and narrative signals from text.</td>
+<td width="33%"><strong>Concurrency</strong><br/>Shared-state systems, synchronization, and simulation design.</td>
+<td width="33%"><strong>Structure</strong><br/>Unsupervised learning, segmentation, and latent pattern discovery.</td>
+<td width="33%"><strong>Language</strong><br/>NLP, semantics, and interpretive text analysis.</td>
 </tr>
 </table>
+
+---
+
+## Contact
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">LinkedIn</a> · <a href="mailto:YOUR_EMAIL@example.com">Email</a>
+
 
