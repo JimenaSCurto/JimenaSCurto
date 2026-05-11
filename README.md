@@ -1,65 +1,82 @@
 # Jimena Sanchez
 
-PPLE + Data & Business Analytics  
-Focus: AI, Data Science, Computational Social Science  
+**PPLE + Data & Business Analytics**  
+Computational Social Science · Systems Design · Applied AI  
 
 ---
 
-## Featured Projects
+## Selected Work
 
-### Cartel Simulation in Parallel  
-Multi-threaded simulation of a drug cartel system developed for Operating Systems and Parallel Computing.
+<table>
+<tr>
+<td width="33%" valign="top">
 
-- Models production, distribution, morale, and sabotage dynamics  
-- Implements concurrency using threads, locks, and synchronization  
-- Designed to reflect decentralized, high-risk operational systems  
+#### Cartel Simulation in Parallel  
+Multi-agent cartel system modeled under concurrency constraints.
 
-**Tech:** Python · Multithreading · SQLite  
-**Repo:** https://github.com/your-username/Cartel-Simulation-in-Parallel  
+- Thread-based simulation of production, logistics, and conflict  
+- Synchronization via locks and shared-state control  
+- Emulates decentralized, adversarial environments  
+
+<a href="https://github.com/your-username/Cartel-Simulation-in-Parallel">Open Repository →</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+#### Perfiles Humanos  
+Ideological segmentation through unsupervised learning.
+
+- Clustering of human profiles to detect latent belief structures  
+- PCA-driven dimensionality reduction for interpretability  
+- Data-driven approach to political and social identity  
+
+<a href="https://github.com/your-username/Perfiles-Humanos">Open Repository →</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+#### Lady Macbeth (NLP)  
+Computational analysis of Shakespearean language.
+
+- Semantic and tonal decomposition of speech  
+- NLP pipeline for linguistic pattern extraction  
+- Language as a proxy for psychological state  
+
+<a href="https://github.com/your-username/Lady-Macbeth">Open Repository →</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-### Perfiles Humanos  
-Clustering-based analysis to uncover ideological structures in human profiles.
+## Technical Stack
 
-- Applies unsupervised learning to segment individuals  
-- Uses dimensionality reduction to interpret latent structures  
-- Connects data-driven insights with political and social analysis  
-
-**Tech:** Python · KMeans · PCA · Visualization  
-**Repo:** https://github.com/your-username/Perfiles-Humanos  
-
----
-
-### Lady Macbeth — NLP Analysis  
-Natural language processing study of Lady Macbeth’s speech.
-
-- Examines tone, semantics, and linguistic patterns  
-- Combines computational methods with interpretative analysis  
-- Focus on language as a reflection of psychological and narrative structure  
-
-**Tech:** Python · NLP (spaCy, NLTK)  
-**Repo:** https://github.com/your-username/Lady-Macbeth  
-
----
-
-## Skills
-
-**Languages**  
+**Core**  
 Python · R · SQL  
 
-**Data Science**  
-Pandas · Scikit-learn · Time Series · Clustering · NLP  
+**Data & ML**  
+scikit-learn · pandas · NLP pipelines · clustering · time series  
 
 **Systems**  
-Multithreading · Parallel Computing · Simulation Design  
+Multithreading · concurrency control · simulation architecture  
 
-**Tools**  
-Git · BigQuery · SQLite  
+**Infrastructure**  
+SQLite · BigQuery · Git  
 
 ---
 
-## Links
+## Orientation
+
+- Modeling **complex systems** under constraints  
+- Extracting structure from **high-dimensional data**  
+- Bridging **technical methods with social interpretation**  
+
+---
+
+## Contact
 
 - LinkedIn: https://linkedin.com/in/your-profile  
 - Email: your.email@example.com
